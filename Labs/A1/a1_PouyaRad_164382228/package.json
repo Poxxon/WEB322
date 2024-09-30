@@ -1,0 +1,25 @@
+{
+  "name": "a1_pouyarad_164382228",
+  "version": "1.0.0",
+  "description": "This is the first assignment in WEB322",
+  "main": "a1.js",
+  "scripts": {
+    "test": "node a1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Poxxon"
+  },
+  "keywords": [
+    "WEB322",
+    "Node",
+    "A1"
+  ],
+  "author": "Pouya Rad (Poxxon)",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "readline": "^1.3.0"
+  }
+}
